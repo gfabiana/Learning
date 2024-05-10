@@ -1,0 +1,25 @@
+ Angular Commit Message
+
+feat: Uma nova funcionalidade foi adicionada ao código.
+Exemplo: feat: Adicionar função de login
+
+fix: Uma correção de bug foi feita.
+Exemplo: fix: Corrigir erro de validação no formulário
+
+docs: Alterações apenas na documentação.
+Exemplo: docs: Atualizar documentação do README
+
+style: Alterações que não afetam o comportamento do código (espaços em branco, formatação, etc).
+Exemplo: style: Corrigir indentação no arquivo CSS
+
+refactor: Uma alteração no código que não corrige bugs nem adiciona funcionalidades.
+Exemplo: refactor: Reorganizar método de inicialização
+
+perf: Uma alteração no código que melhora o desempenho.
+Exemplo: perf: Otimizar consulta ao banco de dados
+
+test: Adição ou modificação de testes.
+Exemplo: test: Adicionar teste de unidade para função de autenticação
+
+chore: Tarefas de manutenção geral, como atualização de dependências ou ajustes no processo de build.
+Exemplo: chore: Atualizar biblioteca de terceiros
