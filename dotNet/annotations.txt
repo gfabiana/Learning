@@ -1,0 +1,23 @@
+ANNOTATIONS
+
+**VALUE TYPES**
+Tipos Primitivos: Incluem int, float, double, char, bool, etc. Estes são os tipos de dados básicos fornecidos pela linguagem.
+
+Structs: Structs são tipos de dados definidos pelo usuário que encapsulam um conjunto de membros de dados relacionados. 
+Eles são semelhantes às classes, mas são tipos de valor.
+
+Enums: Enums são tipos de dados que consistem em um conjunto de constantes nomeadas. 
+Eles representam um conjunto de valores nomeados e são usados principalmente para definir conjuntos de constantes.
+
+**REFERENCE TYPES**
+Classes: Classes são tipos de dados definidos pelo usuário que podem conter membros de dados e membros de função (métodos). 
+Elas são tipos de referência, o que significa que as variáveis que as contêm armazenam referências à instância real da classe na memória.
+
+Arrays: Arrays em C# também são tipos de referência. Eles representam uma coleção de elementos do mesmo tipo, 
+alocados dinamicamente na memória.
+
+Strings: Strings são um tipo especial de array de caracteres (char[]) e são tipos de referência em C#. 
+Eles representam sequências de caracteres Unicode.
+
+Delegates: Delegates são tipos que representam referências a métodos com uma assinatura específica. 
+Eles são usados principalmente para implementar callbacks e eventos em C#.

@@ -1,4 +1,4 @@
- Angular Commit Message
+Angular Commit Message
 
 feat: Uma nova funcionalidade foi adicionada ao código.
 Exemplo: feat: Adicionar função de login
