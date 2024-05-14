@@ -1,3 +1,5 @@
-# Environment variables
 *.env
-
+*.sln
+.vscode/*
+bin/*
+obj/*
